@@ -1,11 +1,13 @@
-# 📊 Predicción de Sueldos MTPE - Perú
+# Predicción de Sueldos MTPE - Perú 📊
 
 ## Developed by Jorge Guillermo Olarte Quispe
 
 ## Universidad Nacional del Altiplano – Ingeniería de Sistemas
 
-**Predicción automatizada de remuneraciones mensuales en el sector privado peruano**  
-Aplicación web basada en inteligencia artificial que estima el sueldo mensual de un trabajador en función de características demográficas y laborales. Utiliza datos abiertos del **Ministerio de Trabajo y Promoción del Empleo (MTPE)** y un modelo de machine learning (XGBoost) entrenado con datos reales.
+**Predicción automatizada de remuneraciones mensuales en el sector privado peruano**
+
+Aplicación web basada en inteligencia artificial que estima el sueldo mensual de un trabajador en función de características demográficas y laborales.
+Utiliza datos abiertos del **Ministerio de Trabajo y Promoción del Empleo (MTPE)** y un modelo de machine learning (XGBoost) entrenado con datos reales.
 
 ---
 
@@ -13,11 +15,13 @@ Aplicación web basada en inteligencia artificial que estima el sueldo mensual d
 
 | Módulo           | Descripción                                          | Repositorio                                                                                    |
 | ---------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 🖥️ Frontend      | Interfaz web en React + Tailwind para ingresar datos | [`mtpe-salary-predictor-react`](https://github.com/ArtStyle19/mtpe-salary-predictor-react)     |
-| 🔁 Backend       | API REST en Flask con modelo XGBoost                 | [`backend-mtpe-salary-predictor`](https://github.com/ArtStyle19/backend-mtpe-salary-predictor) |
+| Frontend         | Interfaz web en React + Tailwind para ingresar datos | [`mtpe-salary-predictor-react`](https://github.com/ArtStyle19/mtpe-salary-predictor-react)     |
+| Backend          | API REST en Flask con modelo XGBoost                 | [`backend-mtpe-salary-predictor`](https://github.com/ArtStyle19/backend-mtpe-salary-predictor) |
 | Preprocesamiento | Limpieza, codificación y entrenamiento del modelo    | Privado                                                                                        |
 
 ---
+
+s
 
 ## Objetivo del Proyecto
 
